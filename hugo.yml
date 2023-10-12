@@ -1,0 +1,4 @@
+baseURL: 'blog.miqgo.com'
+title: 'My New Hugo Site'
+paginate: 5
+theme: PaperMod
